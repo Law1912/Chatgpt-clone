@@ -14,7 +14,7 @@ export default function Home() {
         AI to new heights, offering you a dynamic and intelligent chat companion
         designed for a wide array of applications.
       </p>
-      <Link href="/register" className={buttonVariants({ size: "lg" })}>
+      <Link href="/login" className={buttonVariants({ size: "lg" })}>
         Get started
       </Link>
     </div>
