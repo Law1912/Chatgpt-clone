@@ -17,17 +17,7 @@ export default function HeroNav() {
             size: "sm",
           })}
         >
-          Login
-        </Link>
-        <Link
-          href="/register"
-          className={buttonVariants({
-            variant: "link",
-            className: "text-base",
-            size: "sm",
-          })}
-        >
-          Register
+          Get Started
         </Link>
       </div>
     </nav>

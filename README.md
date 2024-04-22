@@ -33,3 +33,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 <img src="./images/dark-greet.png" alt="" width="100%"/>
 <img src="./images/dark-chat.png" alt="" width="100%"/>
 <img src="./images/light-chat.png" alt="" width="100%"/>
+
+## Deploy on Vercel
+
+Check out - https://chatgpt-clone-sigma-wheat.vercel.app/
