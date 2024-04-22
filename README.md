@@ -7,6 +7,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 npm install
 ```
 
+Rename .env.sample to .env and add the fields in there.
+
 First, run the development server:
 
 ```bash
